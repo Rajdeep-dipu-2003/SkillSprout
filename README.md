@@ -1,7 +1,3 @@
-Here's your **GitHub README** with improved formatting, better language, and a fun, engaging style! 🚀✨  
-
----
-
 ### **🌟 Welcome to SkillSprout! 🌱**  
 **Your personalized journey to success starts here!** 🌈🎯  
 
